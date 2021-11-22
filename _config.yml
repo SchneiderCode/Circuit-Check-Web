@@ -9,7 +9,7 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /logo.png
+logo: /logo_white.png
 description: Software Debugger for Physical Computing.
 author: Michael Schneider
   name: Michael Schneider
