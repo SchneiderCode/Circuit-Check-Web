@@ -11,10 +11,10 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Software Debugger for Physical Computing.
-author: Michael Schneider
-  name: Michael Schneider
-  email: Michael.J.Schneider@colorado.edu
-  twitter: CodeCraftCr8
+author: 
+  name: Michael Schneider 
+  email: Michael.J.Schneider@colorado.edu 
+  twitter: CodeCraftCr8 
 social:
   name: 
   links:
