@@ -1,4 +1,4 @@
-- name: Circuit Check
+- name: Open Circuit Check
   link: https://schneidercode.github.io/Circuit-Check-Editor/
   new_window: false
   highlight: true
