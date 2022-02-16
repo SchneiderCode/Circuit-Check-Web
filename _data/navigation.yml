@@ -7,14 +7,14 @@
   link: /setup/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
 - name: Open Circuit Check
   link: https://schneidercode.github.io/Circuit-Check/
   new_window: true
   highlight: true
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: false
 #- name: Login
 #  link: /
 #  new_window: true
