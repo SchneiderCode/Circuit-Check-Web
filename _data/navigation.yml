@@ -12,7 +12,7 @@
   new_window: false
   highlight: false
 - name: Open Circuit Check
-  link: https://schneidercode.github.io/Circuit-Check-Editor/
+  link: https://schneidercode.github.io/Circuit-Check/
   new_window: true
   highlight: true
 #- name: Login
