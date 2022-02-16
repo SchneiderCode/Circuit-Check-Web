@@ -1,6 +1,6 @@
 
 - name: Home
-  link: /index/
+  link: /
   new_window: false
   highlight: false
 - name: Getting Started
