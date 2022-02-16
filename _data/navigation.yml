@@ -1,11 +1,8 @@
-- name: Open Circuit Check
-  link: https://schneidercode.github.io/Circuit-Check-Editor/
-  new_window: true
-  highlight: true
-#- name: Blog
-#  link: /blog/
-#  new_window: false
-#  highlight: false
+
+- name: Home
+  link: /index/
+  new_window: false
+  highlight: false
 - name: Getting Started
   link: /setup/
   new_window: false
@@ -14,6 +11,10 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: Open Circuit Check
+  link: https://schneidercode.github.io/Circuit-Check-Editor/
+  new_window: true
+  highlight: true
 #- name: Login
 #  link: /
 #  new_window: true
