@@ -7,7 +7,7 @@
 #  new_window: false
 #  highlight: false
 - name: Getting Started
-  link: /get_started/
+  link: /setup/
   new_window: false
   highlight: false
 - name: Contact
