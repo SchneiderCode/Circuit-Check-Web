@@ -1,13 +1,13 @@
 - name: Open Circuit Check
   link: https://schneidercode.github.io/Circuit-Check-Editor/
-  new_window: false
+  new_window: true
   highlight: true
 #- name: Blog
 #  link: /blog/
 #  new_window: false
 #  highlight: false
-- name: About
-  link: /about/
+- name: Getting Started
+  link: /get_started/
   new_window: false
   highlight: false
 - name: Contact
