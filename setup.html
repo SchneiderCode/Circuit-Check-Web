@@ -19,16 +19,30 @@ description: Quick instructions for adding the Circuit Check Library to your Ard
 	<section>
 		<div class="container flex">
 			<div class="text editable">
-				<h2>MakeCode</h2>
+				<h2>MakeCode - Add Circuit Check Extension</h2>
 				<ol>
-					<li>Create a new MakeCode Project for the micro:bit. <b>The micro:bit is the only microcontroller on MakeCode supported by CircuitCheck!</b></li>
+					<li>Create a new MakeCode Project for the micro:bit*.</li>
 					<li>Select the "+ Extensions" option, under <i>Advanced</i></li>
 					<li>Paste the github URL for Circuit Check's MakeCode Extension: <a href="https://github.com/SchneiderCode/circuit-check-extension/">https://github.com/SchneiderCode/circuit-check-extension/</a></li>
 					<li>Click "Circuit Check Extension" to add it to your MakeCode project </li>
 				</ol>
+				<p><b>*For now, the micro:bit is the only microcontroller on MakeCode supported by CircuitCheck.</b></p>
 			</div>
 			<div class="image">
-				<img src="{{ site.baseurl }}/images/CC_PWM.png" alt="Screenshot" class="screenshot editable" />
+				<img src="{{ site.baseurl }}/images/makecode_add_extension.gif" alt="Screenshot" class="screenshot editable" />
+			</div>
+		</div>
+	</section>
+	
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>MakeCode - Forever Block</h2>
+				<p>To enable Circuit Check's debugging features you'll need to swap out the standard forever loop with the one provided by the Circuit Check extension. 
+				This custom block will allow you to access your micro:bit's sensors, modify your hardware's settings, and even pause your running program!</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/makecode_add_forever.gif" alt="Screenshot" class="screenshot editable" />
 			</div>
 		</div>
 	</section>
