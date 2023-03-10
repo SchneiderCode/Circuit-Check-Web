@@ -135,12 +135,7 @@
            style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="-1.9292548"
            y="24.253489"
-           id="text2836"><tspan
-             sodipodi:role="line"
-             id="tspan2834"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-             x="-1.9292548"
-             y="24.253489">C</tspan></text>
+           id="text2836"><tspan xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" sodipodi:role="line" id="tspan2834" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family: 'Arial';-inkscape-font-specification:'MS PGothic';fill:#ffffff;fill-opacity:1;stroke-width:0.264583" x="0" y="30">✔</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:0.75;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -157,18 +152,6 @@
              x="40.444031"
              y="41.786198"
              id="tspan893">  Check</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-miterlimit:10;stroke-dasharray:none"
-           x="-27.254827"
-           y="-11.390886"
-           id="text2836-7"
-           transform="scale(-1)"><tspan
-             sodipodi:role="line"
-             id="tspan2834-2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic';fill:#ffffff;fill-opacity:1;stroke-width:0.79375;stroke-miterlimit:10;stroke-dasharray:none"
-             x="-27.254827"
-             y="-11.390886">C</tspan></text>
       </g>
     </g>
   </g>
